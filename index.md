@@ -9,4 +9,3 @@ permalink: /
 
 We are cooking something really awesome. Hold your breath and wait for VRH launch
 
-info@veroroyalhospital.com 
