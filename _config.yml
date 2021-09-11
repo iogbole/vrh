@@ -8,7 +8,7 @@ description: Vero Royal Hospital
 background: "images/vbg.jpg"
 
 # Site logo
-#logo: "images/logo.png"
+logo: "images/logo.png"
 
 # Countdown clock
 # (This can be commented out if not required.)
