@@ -3,8 +3,10 @@ layout: soon
 permalink: /
 ---
 
+# Vero Royal Hospital 
+
 # Coming soon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
+We are cooking something really awesome. Hold your breath and wait for VRH launch
 
+info@veroroyalhospital.com 
