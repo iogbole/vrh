@@ -9,7 +9,7 @@ description: A fancy description of the site
 background: "images/bg.jpeg"
 
 # Site logo
-logo: "images/logo.png"
+#logo: "images/logo.png"
 
 # Countdown clock
 # (This can be commented out if not required.)
