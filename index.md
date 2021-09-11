@@ -5,7 +5,6 @@ permalink: /
 
 # Vero Royal Hospital 
 
-<br>
 # Coming soon
 <br>
 We are cooking something really awesome. <br>
